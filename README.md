@@ -12,5 +12,3 @@ In order to use the code, it is recommended to have xcode downloaded on the inte
 ## Technologies
 The system used to create this app was a MacBook Pro. The MacBook Pro has an 8-Core Intel Core i9 processor and 16 GB of memory.
 
-## Collaborators
-The project was created with the help of Code Academy.
